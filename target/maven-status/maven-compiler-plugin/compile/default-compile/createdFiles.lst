@@ -1,0 +1,9 @@
+com\freecrm\qa\pages\TasksPage.class
+com\freecrm\qa\basesetup\BaseSetup.class
+com\freecrm\qa\pages\LoginPage.class
+com\freecrm\qa\pages\SignUpPage.class
+com\freecrm\qa\pages\DealsPage.class
+com\freecrm\qa\util\WebEventListener.class
+com\freecrm\qa\util\CommonUtils.class
+com\freecrm\qa\pages\ContactsPage.class
+com\freecrm\qa\pages\HomePage.class
